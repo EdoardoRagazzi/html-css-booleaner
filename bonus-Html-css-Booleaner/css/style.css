@@ -1,0 +1,125 @@
+*{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  font-weight: 550;
+}
+
+
+
+/* header with logo and background */
+.container{
+  background-image: url("/img/pattern.png");
+  background-size: 100% 100%;
+  width:100%;
+  height: 200px;
+  background-repeat: repeat-y;
+  background-color: dodgerblue;
+  border-radius: 225px;
+}
+.img{
+  width: 200px;
+  height: 200px;
+  margin: 100px 25px ;
+  display: block;
+  position: absolute;
+
+}
+/* Ending header with logo and background */
+/* header with text */
+h1{
+  margin-inline-start: 0px;
+  padding-left: 0px;
+  padding-top: 200px;
+  font-weight: 900;
+  font-size: 60px;
+  
+}
+
+.booleaner{
+  color: mediumturquoise ;
+  font-weight: 400;
+}
+.scritto{
+  color: lightsteelblue;
+  font-size: 20px;
+  font-weight: 400;
+}
+/* ending header with Text */
+/* header with Pictures */
+
+.tim1{
+  background-image: url("/img/tim-1.jpg");
+  background-size: cover;
+  width: 1000px;
+  height: 600px;
+  display: inline-block;
+  
+
+}
+.tim2{
+  background-image: url("/img/tim-2.jpg");
+  background-size: cover;
+  width: 800px;
+  height: 600px;
+  display: inline-block;
+  
+
+}
+
+.photodescription{
+  font-size: 20px;
+  font-weight: 500;
+  
+}
+/* ending header with Picture */
+
+/* start main css */
+.textyellow{
+   background-color: yellow;
+}
+
+.descrizionetabella{
+  background-color: steelblue;
+  text-align: left;
+  padding: 10px;
+  
+}
+.primacella{
+  background-color: turquoise;
+  
+}
+.terzacella{
+  background-color: steelblue;
+
+
+}
+.start{
+  font-weight: 900;
+  font-size: 20px;
+  color: slategrey;
+}
+.graph{
+  background-image: url("/img/graph.jpg");
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+  display: block;
+  color: white;
+  padding: 10px 10px;
+  
+
+}
+.monitor{
+  background-image: url("/img/monitor.jpg");
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin-top: 5px;
+  color: white;
+  padding: 10px 10px;;
+  
+
+}
+
+
