@@ -1,3 +1,10 @@
+*{
+    font-size: 20px;
+    font-weight: 550;
+}
+
+
+
 /* header with logo and background */
 .container{
     background-image: url("/img/pattern.png");
@@ -29,10 +36,12 @@ h1{
 
 .booleaner{
     color: mediumturquoise ;
+    font-weight: 400;
 }
 .scritto{
     color: lightsteelblue;
-    font-size: 30px;
+    font-size: 20px;
+    font-weight: 400;
 }
 /* ending header with Text */
 /* header with Pictures */
@@ -57,6 +66,24 @@ h1{
 }
 .photodescription{
     font-size: 20px;
+    font-weight: 500;
 }
 /* ending header with Picture */
+
+ /* start main css */
+ .textyellow{
+     background-color: yellow;
+ }
+.descrizionetabella{
+    background-color: steelblue;
+    
+}
+.primacella{
+    background-color: turquoise;
+}
+.terzacella{
+    background-color: steelblue;
+
+}
+
 
