@@ -1,0 +1,15 @@
+.container{
+    background-image: url("/img/pattern.png");
+    background-size: 100% 100%;
+    width:100%;
+    height: 200px;
+    border: 2px solid black;
+    background-repeat: repeat-y;
+    background-color: dodgerblue;
+}
+.img{
+    width: 200px;
+    height: 200px;
+    margin: 150px 25px ;
+
+}
