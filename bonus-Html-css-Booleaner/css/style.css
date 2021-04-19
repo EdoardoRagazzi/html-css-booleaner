@@ -15,6 +15,7 @@
   background-repeat: repeat-y;
   background-color: dodgerblue;
   border-radius: 225px;
+  text-align: center;
 }
 .img{
   width: 200px;
@@ -49,6 +50,7 @@ h1{
 
 .tim1{
   background-image: url("/img/tim-1.jpg");
+  opacity: 0.5;
   background-size: cover;
   width: 1000px;
   height: 600px;
@@ -56,14 +58,20 @@ h1{
   
 
 }
+.tim1:hover{
+  opacity: 1.0;
+
+}
 .tim2{
   background-image: url("/img/tim-2.jpg");
+  opacity: 0.5;
   background-size: cover;
   width: 800px;
   height: 600px;
   display: inline-block;
-  
-
+}
+.tim2:hover{
+  opacity: 1.0;
 }
 
 .photodescription{
