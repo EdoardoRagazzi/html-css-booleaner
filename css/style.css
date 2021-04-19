@@ -1,3 +1,4 @@
+/* header with logo and background */
 .container{
     background-image: url("/img/pattern.png");
     background-size: 100% 100%;
@@ -15,6 +16,8 @@
     position: absolute;
 
 }
+/* Ending header with logo and background */
+/* header with text */
 h1{
     margin-inline-start: 0px;
     padding-left: 0px;
@@ -31,6 +34,8 @@ h1{
     color: lightsteelblue;
     font-size: 30px;
 }
+/* ending header with Text */
+/* header with Pictures */
 
 .tim1{
     background-image: url("/img/tim-1.jpg");
@@ -50,4 +55,8 @@ h1{
     
 
 }
+.photodescription{
+    font-size: 20px;
+}
+/* ending header with Picture */
 
