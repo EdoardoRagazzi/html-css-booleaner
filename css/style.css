@@ -52,8 +52,6 @@ h1{
     width: 1000px;
     height: 600px;
     display: inline-block;
-    
-
 }
 .tim2{
     background-image: url("/img/tim-2.jpg");
@@ -61,8 +59,6 @@ h1{
     width: 800px;
     height: 600px;
     display: inline-block;
-    
-
 }
 
 .photodescription{
@@ -120,8 +116,11 @@ h1{
     
 
 }
-th {
-    height: 10px;
-    padding: 1px;
+table{
+    border: 1px solid black;
+    text-align: left;
+    padding:5px;
+    border-collapse: collapse;
 }
+
 
