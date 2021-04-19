@@ -65,9 +65,11 @@ h1{
     
 
 }
+
 .photodescription{
     font-size: 20px;
     font-weight: 500;
+    
 }
 /* ending header with Picture */
 
@@ -75,21 +77,48 @@ h1{
  .textyellow{
      background-color: yellow;
  }
+
 .descrizionetabella{
     background-color: steelblue;
+    text-align: left;
     
 }
 .primacella{
     background-color: turquoise;
+    
 }
 .terzacella{
     background-color: steelblue;
+ 
 
 }
-.startheader{
-    font-weight: 800;
-    font-size: 30px;
+.start{
+    font-weight: 900;
+    font-size: 20px;
     color: slategrey;
+}
+.graph{
+    background-image: url("/img/graph.jpg");
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    display: block;
+    color: white;
+    padding: 10px 10px;
+    
+
+}
+.monitor{
+    background-image: url("/img/monitor.jpg");
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin-top: 5px;
+    color: white;
+    padding: 10px 10px;;
+    
+
 }
 
 
